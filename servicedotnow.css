@@ -1,0 +1,22 @@
+body{
+ color:lime;
+ font-family:Lucida Console;
+ background-color: black;
+ margin:0px;
+ padding:0px;
+ padding-left:3px;
+}
+
+input{
+ color:lime;
+ background-color:black;
+}
+
+td{
+ padding-right: 20px;
+}
+
+a{
+ color: lime;
+ text-decoration: underline;
+}
